@@ -1,7 +1,7 @@
 {
   "name": "docker_web_app",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
+  "description": "Node.js application on Docker",
   "author": "Richard Shillingford <Richard.Shillinford@gmail.com>",
   "main": "server.js",
   "scripts": {
